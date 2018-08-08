@@ -1,0 +1,186 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Thu Aug 09 06:49:29 2018
+\t (00:00:02)         Host=DESKTOP-6EAOH9R User=riyenas0925 Pid=20040 CPUs=8
+\t (00:00:02) 
+\t (00:00:04) Opening existing design...
+\d (00:00:04) Database opened: E:/Orcad_16.5_Study/SSD1332_OLED_Module/allegro/SSD1332.brd
+\i (00:00:04) trapsize 376
+\i (00:00:04) trapsize 369
+\i (00:00:04) trapsize 377
+\i (00:00:04) trapsize 327
+\i (00:00:04) trapsize 327
+\t (00:00:04) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:05) placementedit 
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 19.875 1.594
+\i (00:00:06) trapsize 163
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 14.481 15.126
+\i (00:00:29) trapsize 82
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 14.269 15.567
+\i (00:00:29) trapsize 41
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 14.269 15.576
+\i (00:00:29) trapsize 20
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 14.269 15.581
+\i (00:00:29) trapsize 10
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 14.257 15.579
+\i (00:00:29) trapsize 20
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 14.255 15.578
+\i (00:00:29) trapsize 41
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 14.256 15.579
+\i (00:00:29) trapsize 82
+\i (00:00:29) zoom out 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom out 14.256 15.562
+\i (00:00:29) trapsize 163
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 13.830 17.688
+\i (00:00:30) trapsize 82
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 13.830 17.688
+\i (00:00:30) trapsize 41
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 13.831 17.688
+\i (00:00:30) trapsize 20
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 13.831 17.688
+\i (00:00:30) trapsize 10
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 13.821 17.633
+\i (00:00:30) trapsize 5
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 13.839 17.576
+\i (00:00:30) trapsize 10
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 13.843 17.569
+\i (00:00:30) trapsize 20
+\i (00:00:33) delete 
+\i (00:00:34) pick grid 13.762 16.152
+\t (00:00:34) last pick:  13.800  16.200
+\i (00:00:35) pick grid 13.750 16.124
+\t (00:00:35) last pick:  13.800  16.100
+\i (00:00:35) pick grid 13.750 16.124
+\t (00:00:35) last pick:  13.800  16.100
+\i (00:00:36) pick grid dbl 13.750 16.124
+\t (00:00:36) last pick:  13.800  16.100
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 13.750 16.124
+\i (00:00:36) trapsize 41
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 13.750 16.124
+\i (00:00:36) trapsize 82
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 13.749 16.124
+\i (00:00:36) trapsize 163
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 13.750 16.123
+\i (00:00:36) trapsize 327
+\i (00:00:36) zoom out 1 
+\i (00:00:36) setwindow pcb
+\i (00:00:36) zoom out 13.749 16.058
+\t (00:00:36) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:00:36) trapsize 654
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 16.536 14.620
+\t (00:00:37) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:37) trapsize 327
+\i (00:00:37) zoom in 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom in 16.536 14.620
+\i (00:00:37) trapsize 163
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 16.405 16.712
+\i (00:00:38) trapsize 82
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 13.497 16.304
+\i (00:00:38) trapsize 41
+\i (00:00:38) zoom in 1 
+\i (00:00:38) setwindow pcb
+\i (00:00:38) zoom in 13.498 16.272
+\i (00:00:38) trapsize 20
+\i (00:00:39) pick grid 14.192 15.925
+\t (00:00:39) last pick:  14.200  15.900
+\t (00:00:39) Dynamic Shape "Gnd, Boundary/Top"
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 14.192 15.925
+\i (00:00:40) trapsize 41
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 14.192 15.924
+\i (00:00:40) trapsize 82
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 14.192 15.925
+\i (00:00:40) trapsize 163
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 14.192 15.924
+\i (00:00:40) trapsize 327
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 14.192 15.924
+\t (00:00:40) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:00:40) trapsize 654
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 14.968 15.924
+\i (00:00:40) trapsize 1308
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 79.975 -1.880
+\i (00:00:40) trapsize 1308
+\i (00:00:41) pick grid 78.668 59.577
+\t (00:00:41) last pick:  78.700  59.600
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -11.557 3.611
+\i (00:00:42) trapsize 654
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -11.556 3.742
+\t (00:00:42) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:42) trapsize 327
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -11.622 3.742
+\i (00:00:42) trapsize 163
+\i (00:00:43) undo 
+\i (00:00:43) trapsize 20
+\i (00:00:43) placementedit 
+\i (00:00:44) undo 
+\i (00:00:44) placementedit 
+\i (00:00:44) undo 
+\i (00:00:44) placementedit 
+\i (00:00:45) exit 
+\e (00:00:45) Do you want to save the changes you made to SSD1332.brd?
+\i (00:00:46) fillin no 
+\t (00:00:46)     Journal end - Thu Aug 09 06:50:13 2018

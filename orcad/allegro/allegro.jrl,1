@@ -1,0 +1,76 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Thu Aug 09 06:48:47 2018
+\t (00:00:02)         Host=DESKTOP-6EAOH9R User=riyenas0925 Pid=13480 CPUs=8
+\t (00:00:02) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: E:/Orcad_16.5_Study/SSD1332_OLED_Module/allegro/SSD1332.brd
+\i (00:00:03) trapsize 376
+\i (00:00:03) trapsize 369
+\i (00:00:04) trapsize 377
+\i (00:00:04) trapsize 327
+\i (00:00:04) trapsize 327
+\t (00:00:04) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:04) placementedit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 6.473 12.577
+\t (00:00:05) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:00:05) trapsize 654
+\i (00:00:07) zoom in 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom in 155.409 13.361
+\t (00:00:07) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:07) trapsize 327
+\i (00:00:07) zoom out 1 
+\i (00:00:07) setwindow pcb
+\i (00:00:07) zoom out 155.409 13.361
+\t (00:00:07) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:00:07) trapsize 654
+\i (00:00:09) pick grid 9.623 -3.768
+\t (00:00:09) last pick:  9.600  -3.800
+\i (00:00:12) color192 
+\i (00:00:13) setwindow cvf.dialog
+\i (00:00:13) cvf layer_mode
+\i (00:00:13) setwindow pcb
+\i (00:00:13) placementedit 
+\i (00:00:15) setwindow cvf.dialog
+\i (00:00:15) cvf cancel
+\i (00:00:17) setwindow pcb
+\i (00:00:17) artwork 
+\i (00:00:21) setwindow form.film_control
+\i (00:00:21) FORM film_control filmtree  TOP 
+\i (00:00:22) FORM film_control filmtree popup 'Display for Visibility' TOP 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 9.754 5.908
+\t (00:00:24) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:24) trapsize 327
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 9.754 5.908
+\i (00:00:24) trapsize 163
+\i (00:00:24) zoom in 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom in 9.754 5.908
+\i (00:00:24) trapsize 82
+\i (00:00:24) zoom out 1 
+\i (00:00:24) setwindow pcb
+\i (00:00:24) zoom out 9.754 5.908
+\i (00:00:24) trapsize 163
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 9.754 5.908
+\i (00:00:25) trapsize 327
+\i (00:00:26) zoom out 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom out 22.437 9.046
+\t (00:00:26) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (00:00:26) trapsize 654
+\i (00:00:27) setwindow form.film_control
+\i (00:00:27) FORM film_control filmtree  Soldermask_Top 
+\i (00:00:28) FORM film_control cancel  
+\i (00:00:28) setwindow pcb
+\i (00:00:28) placementedit 
+\i (00:00:29) exit 
+\t (00:00:29)     Journal end - Thu Aug 09 06:49:14 2018
